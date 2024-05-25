@@ -57,7 +57,7 @@ const ProjectCarousel = () => {
                                     Queries facilitate trade betweeen different character inventories - each item in an inventory represents a row in the database;
                                     Validations produce flash messsages that alert the player when they attempt to make an invalid trade.
                                 </p>
-                                <a href="https://youtu.be/gJuLIOO7wyo?t=15" target='_blank' className='projectLinks'>View Project Demo</a>
+                                <a href="https://youtu.be/gJuLIOO7wyo?t=35" target='_blank' className='projectLinks'>View Project Demo</a>
                                 
                             </div>
                             <div className='col-1 '>
@@ -170,7 +170,7 @@ const ProjectCarousel = () => {
                         <p className='py-3'>A short browser interactive story I built using Python, Flask, and MySQL. Features:
                             Queries facilitate trade betweeen different character inventories - each item in an inventory represents a row in the database;
                             Validations produce flash messsages that alert the player when they attempt to make an invalid trade. </p>
-                            <a href="https://youtu.be/gJuLIOO7wyo?t=15" target='_blank' className='projectLinks'>View Project Demo</a>
+                            <a href="https://youtu.be/gJuLIOO7wyo?t=35" target='_blank' className='projectLinks'>View Project Demo</a>
                        
                     </div>
 
