@@ -125,7 +125,7 @@ const ProjectCarousel = () => {
                             <button
                                 className='mx-3'
                                 type="button"
-                                data-bs-target="#carouselActions"
+                                data-bs-target="#carouselMobile"
                                 data-bs-slide="prev">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </button>
@@ -155,7 +155,7 @@ const ProjectCarousel = () => {
                             <button
                                 className='mx-3'
                                 type="button"
-                                data-bs-target="#carouselActions"
+                                data-bs-target="#carouselMobile"
                                 data-bs-slide="prev">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </button>
@@ -184,7 +184,7 @@ const ProjectCarousel = () => {
                             <button
                                 className='mx-3'
                                 type="button"
-                                data-bs-target="#carouselActions"
+                                data-bs-target="#carouselMobile"
                                 data-bs-slide="prev">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </button>
