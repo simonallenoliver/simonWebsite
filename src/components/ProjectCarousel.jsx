@@ -89,7 +89,7 @@ const ProjectCarousel = () => {
                                 <p className='py-3'>A top-down RPG I made using the Godot game engine's Python-like language, GDScript.
                                     Features: Over ten complex, conditional character animations;
                                     Enemies programmed to pursue the player character once they have reached a certain proximity;
-                                    Combat functions that result in removing character sprites from the game</p>
+                                    Combat functions that result in removing character sprites from the game.</p>
                                     <a href="https://youtu.be/GQEFtYfaGDI?t=105" target='_blank' className='projectLinks'>View Project Demo</a>
 
                             </div>

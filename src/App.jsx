@@ -108,7 +108,7 @@ function App() {
                   <p className='mb-3'>
                     When I’m not coding, I love to stay active, whether that be lifting weights, swimming,
                     hiking, or climbing the occasional tree. I’m a creative problem solver in the kitchen too -
-                    to the delight or detriment of my friends and family depending on the day - I’ve recently
+                    to the delight or dismay of my friends and family depending on the day - I’ve recently
                     been obsessed with Mediterranean food. I also enjoy connecting with my out-of-state friends
                     on discord to chat and game together.
                   </p>
