@@ -101,8 +101,8 @@ function App() {
                     explore throughout my entire career.
                   </p>
                   <p className='mb-3'>
-                    That’s how I ended up here. I now create full-stack CRUD applications using python,
-                    javascript, C#, React, MySQL, MongoDB, .NET, Entity, and much, much more. I also like to
+                    That’s how I ended up here. I now create full-stack CRUD applications using Python,
+                    JavaScript, C#, React, MySQL, MongoDB, .NET, Entity, and much, much more. I also like to
                     keep my coding brain fresh by mixing in some game development, using Unity and Godot.
                   </p>
                   <p className='mb-3'>
